@@ -62,14 +62,3 @@ Inglés: B2.
 | [PubControl](https://github.com/johansaidleon/barsoft-project) | Sistema de gestión para bares, desarrollado en equipo (BarSoft Solutions) | Angular, Express, SQL Server |
 | Detección de incidentes | Videovigilancia con IA que detecta posibles hurtos por zonas | Python, YOLOv8, SQLite |
 | Pasapáginas | Convierte un PDF en un libro con páginas que se voltean (web, escritorio y Android) | JavaScript, Electron, Capacitor |
-
----
-
-### Estadísticas
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=johansaidleon&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johansaidleon&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
